@@ -1,0 +1,12 @@
+{
+  "name": "StarLink",
+  "alt": 550,
+  "cycle": 5731,
+  "inclination": 53,
+  "nOrbit": 72,
+  "nSatPerOrbit": 22,
+  "offset": -11,
+  "ISLpattern": 1,
+  "phaseShift": 0,
+  "routingStrategy": 1
+}
