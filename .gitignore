@@ -1,0 +1,8 @@
+/old/
+/env/
+__pycache__
+/cleanup.sh
+/build/
+.vscode
+/republish.sh
+/.VSCodeCounter/

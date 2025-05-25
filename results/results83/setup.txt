@@ -1,0 +1,8 @@
+nOrbit 72
+nSatPerOrbit 22
+phaseShift -11
+cycle 5731
+alt 6.9281e+06
+inclination 53
+routingStrategy 3
+breakWay Random
