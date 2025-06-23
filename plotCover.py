@@ -32,7 +32,7 @@ cons.buildISL(2000)
 
 # cons.breakISLforSunLight(2000, 25)
 
-cons.breakISLforOperation(0.15)
+# cons.breakISLforOperation(0.15)
 
 # cons.plotOnlySats(2000)
 
